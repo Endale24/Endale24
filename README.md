@@ -1,6 +1,6 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C5622AQHyOMbyWpQ5Pw/feedshare-shrink_2048_1536/0/1662999674178?e=1665619200&v=beta&t=iBxSSoe4EVr-36WytPXmeomiY3BjgJWVaLscgJ0C3U4)](https://Endale24.io)
 <h1 align="center">Hi 👋, I'm እንዳለ ለገሠ-ENDALE LEGESSE-李济希</h1>
-<h3 align="center">A passionate junior Engineer interested in ICE(information and Communication Engineering) and SE(software engineering)</h3>
+<h3 align="center">A passionate junior Engineer in ICE(information and Communication Engineering) and SE(software engineering)</h3>
 <img align="right" alt="Coding" width="400" src="https://gist.github.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=endale24&label=Profile%20views&color=0e75b6&style=flat" alt="endale24" /> </p>
